@@ -8,7 +8,7 @@
 ## 使用技術
 - Python3.10
 - MeCab
-- Tweepy v2
+- Tweepy(Twitter API v1.1)
 - WordCloud
 
 ## その他
